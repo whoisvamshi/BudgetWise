@@ -4,6 +4,12 @@
 
 ---
 
+## Preview
+
+![Landing Page](BudgetWiseWebApp/src/assets/landing.png)
+
+---
+
 ## Features
 
 - 🚀 **Modern UI:** Beautiful landing page and dashboard designed with the latest trends  
